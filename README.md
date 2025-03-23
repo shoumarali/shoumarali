@@ -14,4 +14,4 @@
 I’m passionate about solving problems and building scalable solutions. With a solid technical background, I focus on creating efficient, maintainable, and secure systems. I thrive on optimizing performance, applying clean architecture principles, and continuously improving technologies to drive impactful results.
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,androidstudio,intellij,github,git,mysql,spring,hibernate,postgresql,mongodb,firebase,linux,junit,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,androidstudio,idea,github,git,mysql,spring,hibernate,postgresql,mongodb,firebase,linux,junit,docker,cmake)](https://skillicons.dev)
